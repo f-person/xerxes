@@ -5,3 +5,5 @@ Open Terminal and type these commands
 cd Desktop
 gcc xerxes.c -o xerxes
 USAGE : ./xerxes www.fakesite.com 80
+
+This tool was created by zanyarjamal. He deleted himself from GitHub and I had a clone.
